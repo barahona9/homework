@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Tale of the Three Brothers</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">About the Story</a></li>
+                <li><a href="#">About the author</a></li>
+                <li><a href="#">Film</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>The Tale Of The Three Brothers</h1>
+        <p>A story from Harry Potter</p>
+        <img src="https://i.imgur.com/TJQVlRF.jpg" height="250" width="250" alt="brothers"></a>
+        <h1>About the Story</h1>
+        <p>The story is about three brothers who, travelling together, reach a treacherousriver They make a magical bridge over the river. Halfway across the bridge, they meet the personification of Death<br>
+           who is angry for losing three potential victims. He pretends to be impressed by them and grants each a wish as a reward.<br> 
+           <em>The eldest brother </em> asks for an unbeatable dueling wand, so Death gives him the Elder Wand.<br> 
+           <em>The middle brother</em> The middle brother asks for the ability to resurrect the dead, so Death gives him the Resurrection Stone.<br> 
+           <em>The youngest brother</em> The youngest brother doesn't trust Death and asks for a way to stop Death from following him,<br> 
+           so Death reluctantly gives him his Cloak of Invisibility. Afterwards, the brothers go their separate ways.<br>
+           The eldest brother, bragging about his powerful wand, is robbed of it and murdered while he is asleep.<br> 
+           The middle brother uses his ability to bring back the woman he loved, who died before he could marry her.<br> 
+           However, she is not fully alive and is full of sorrow. He kills himself to join her.<br> 
+           As for the youngest brother, Death never manages to find him, as he stays hidden under his Cloak<br>. 
+           Many years later, the brother removes his cloak and gives it to his son.<br> 
+           Pleased with his achievements, he greets Death as an old friend and chooses to leave with him as <strong> equals.</strong></p>
+<p><strong>Click Here To Listen</strong></p>
+<audio controls>
+    <source src="media/audio.mp3">
+</audio>
+    </main>
+</body>
+</html>
